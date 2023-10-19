@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: rgb(25, 235, 175);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 15pt;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+/* Estilos adicionales para Bootstrap */
+.container {
+    margin-top: 20px;
+}
+
+article {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+footer {
+    background-color: rgb(16, 238, 175);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
